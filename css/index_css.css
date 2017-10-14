@@ -1,0 +1,115 @@
+/** index_css样式*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+}
+body{
+	background: #0E0E0E;
+}
+ul,a{
+	text-decoration: none;
+}
+ol{
+	list-style-type: none;
+}
+p{
+	font-size: 14px;
+	line-height: 30px;
+}
+h1,h2,h3,h4,h5,h6,span{
+	line-height: 38px;
+}
+.by_box{
+	width: 1130px;
+	margin: 0 auto;
+	background-color: #DEDEDE;
+	padding-bottom: 5px;
+}
+.nv{
+	width: 100%;
+	height: 60px;
+	background-color: #333;
+}
+.nv h1{
+	width: 140px;
+	height: 60px;
+	float: left;
+	text-indent: -9999px;
+	background: url(../img/baidulogo.png) no-repeat;
+	background-size: 115px 40px;
+	background-position: 32px 12px;
+	
+}
+.nv ul{
+	height: 60px;
+	line-height: 60px;
+	float: right;
+}
+.nv ul li{
+	float: left;
+	margin-right: 25px;
+}
+.nv ul li a{
+	display: block;
+	font-size: 10px;
+	font-weight: 800;
+	color: white;
+}
+#nv_ative{
+	color: #DDD;
+}
+article section,aside section,footer{
+	width: 96.5%;
+	margin: 15px auto;
+	padding: 15px;
+	background-color: white;
+	box-sizing: border-box;
+}
+/*article figure 区块*/
+figure{
+	border: 1px solid #DDDDDD;
+	width: 128px;
+	margin: 15px 48px;
+}
+figure figcaption{
+	text-align: center;
+	font-size: 13px;
+}
+figure img{
+	display: block;
+	margin: 4px auto;
+}
+.none_style{
+	list-style-type: none;
+}
+form{
+	width: 90%;
+	margin: 0 auto;
+}
+.form_block{
+	position: relative;
+}
+.form_block h4{
+	display: inline-block;
+	vertical-align: bottom;
+}
+.div_block{
+	width: 2px;
+	height: 30px;
+	line-height: 30px;
+	display: inline-block;
+	background: #ccc;
+	margin-right: 10px;
+	border: 1px solid #ccc;
+}
+.button_sty{
+	display: block;
+	width: 100%;
+	height: 30px;
+	border-radius: 8px;
+	border: none;
+	background: #3355D0;
+	color: white;
+	
+}
