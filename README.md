@@ -7,3 +7,4 @@
 1. 任务一：零基础HTML编码 xiaowei/index_html.html [现在访问](https://htmlpreview.github.io/?https://github.com/pavolshock/baidu/blob/master/xiaowei/index_html.html)
 2. 任务二：零基础HTML及CSS编码（一） xiaowei/index_css.html [现在访问](https://htmlpreview.github.io/?https://github.com/pavolshock/baidu/blob/master/xiaowei/index_css.html)
 3. 任务三：三栏式布局 xiaowei/three_column_layout.html [现在访问](https://htmlpreview.github.io/?https://github.com/pavolshock/baidu/blob/master/xiaowei/Three_column_layout.html)
+3. 任务四：定位和居中问题 xiaowei/position.html [现在访问](https://htmlpreview.github.io/?https://github.com/pavolshock/baidu/blob/master/xiaowei/position.html)
